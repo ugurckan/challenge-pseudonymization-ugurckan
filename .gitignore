@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Output files
+pii.csv
+health.csv
+checkpoint.json
